@@ -12,13 +12,13 @@
 
 <div align="center">
 
-# Salut, moi c'est Ton Prénom 👋
+# Salut, moi c'est STYVEN Emmanuel👋
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+%26+Logiciel;Passionn%C3%A9+de+S%C3%A9curit%C3%A9+Informatique;Cr%C3%A9ateur+de+Bots+%26+d%27IA;Toujours+en+train+d%27apprendre+%F0%9F%9A%80" alt="Typing SVG" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://techastuces.xyz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:styvenemmanuel123@gmail.com)
+
 
 <br/>
 
@@ -33,7 +33,7 @@
 
 ## 🧑‍💻 À propos de moi
 
-- 🎯 Je me forme au développement logiciel (initiation programmation & web, parcours Ananta Group) avec l'objectif de devenir **ingénieur logiciel** et, à terme, de lancer ma propre start-up.
+- 🎯 Je me forme au développement (initiation programmation & web,aux conteneurs,au génie informatique parcours Ananta Group) avec l'objectif de devenir **ingénieur en système distribué** et, à terme, de lancer ma propre start-up.
 - 🛠️ Je m'occupe aussi bien de **création de sites web** que de **maintenance informatique**, de **sécurité numérique** et de **bureautique**.
 - 🤖 Je construis des **bots**, des intégrations d'**API** et des projets d'**intelligence artificielle**.
 - 📚 Toujours en train d'apprendre une nouvelle techno ou une nouvelle façon de sécuriser un système.
@@ -42,7 +42,9 @@
 
 - 🎓 Diplômé en **Maintenance Informatique / Logiciel**
 - 🎓 Diplômé en **Développement Web**
-- 📬 Contact : [![Email](https://img.shields.io/badge/-ton.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
+- 🎓 Diplômé en **Sécurité informatique**
+- - 🎓 Diplômé en **Assistance Bureautique**
+- 📬 Contact : [![Email](https://img.shields.io/badge/-ton.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:styvenemmanuel123@gmail.com)
 
 ---
 
@@ -77,10 +79,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Styven-Emmanuel-Dev&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styven-Emmanuel-Dev&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TonPseudoGitHub&theme=radical&hide_border=true" alt="Streak GitHub" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Styven-Emmanuel-Dev&theme=radical&hide_border=true" alt="Streak GitHub" />
 
 </div>
 
@@ -91,14 +93,14 @@
   3. Remplace ensuite la ligne ci-dessous par l'URL générée par l'action
 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/TonPseudoGitHub/TonPseudoGitHub/output/github-contribution-grid-snake.svg" alt="Animation snake des contributions" />
+  <img src="https://raw.githubusercontent.com/Styven-Emmanuel-Dev/Styven-Emmanuel-Dev/output/github-contribution-grid-snake.svg" alt="Animation snake des contributions" />
 </div>
 
 ---
 
 <div align="center">
 
-![Compteur de visites](https://komarev.com/ghpvc/?username=TonPseudoGitHub&color=blueviolet&style=for-the-badge&label=VISITEURS)
+![Compteur de visites](https://komarev.com/ghpvc/?username=Styven-Emmanuel-Dev&color=blueviolet&style=for-the-badge&label=VISITEURS)
 
 *Merci de ta visite, n'hésite pas à me contacter pour discuter d'un projet !* ✨
 
