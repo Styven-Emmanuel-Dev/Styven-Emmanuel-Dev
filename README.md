@@ -127,7 +127,7 @@ console.log(`[ONLINE] ${system.services.length} services ready`);
 | Projet | Description | Stack / Intégrations | Lien |
 |:--|:--|:--|:--|
 | 🎓 **My School EDU Assistant** | IA éducative pour l'Afrique francophone, cours interactifs, suivi des performances, abonnement Premium | React Native (à venir), GeniusPay (Mobile Money + carte) | [Voir](https://schooleduassistant.techastuces.xyz) |
-| 🐞 **Bug Bot** | *(à compléter : ce que fait le bot, technos utilisées)* | JavaScript,Node.js,Baileys,Failles WhatsApp | [Voir](#) |
+| 🐞 **Bug Bot** | Un bot qui fait crasher les systèmes WhatsApp sur les appareils Android comme iOS | JavaScript,Node.js,Baileys,Failles WhatsApp | [Voir](#) |
 | 🌐 **Portfolio / Site web** | Site personnel, vitrine de mes compétences et réalisations | Vercel (hébergement), Spaceship (domaine) | [Voir](https://techastuces.xyz) |
 
 ---
