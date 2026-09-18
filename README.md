@@ -45,7 +45,7 @@
 <b>Maintenance informatique</b><br />Diagnostic, logiciels et systèmes
 </td>
 <td align="center" width="50%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Anonymous_emblem.svg/512px-Anonymous_emblem.svg.png" width="280" alt="Emblème Anonymous pour la sécurité numérique" /><br />
+<img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Guy_Fawkes_Mask_Image.jpg/960px-Guy_Fawkes_Mask_Image.jpg" width="280" alt="Vrai masque Anonymous de Guy Fawkes" /><br />
 <b>Cybersecurity / Anonymous mindset</b><br />Protection, veille et culture cyber
 </td>
 </tr>
@@ -55,7 +55,7 @@
 <b>Assistance bureautique</b><br />Word • Excel • PowerPoint • outils du quotidien
 </td>
 <td align="center" width="50%">
-<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=700&q=85" width="280" alt="Lignes de code sur un écran" /><br />
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Personne en train de coder" /><br />
 <b>Développement web & mobile</b><br />JavaScript • React • React Native • Python • PHP
 </td>
 </tr>
