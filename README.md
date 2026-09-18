@@ -22,7 +22,7 @@
 
 </div>
 
-## `whoami`
+## `WHOAMI`
 
 > Développeur web & logiciel, passionné par la sécurité informatique et les systèmes qui font vraiment quelque chose. Je transforme des idées en expériences web, bots, intégrations API et projets IA.
 
@@ -34,7 +34,7 @@
 
 </div>
 
-## `credentials // engineering background`
+## `CREDENTIALS`
 
 <div align="center">
 
@@ -66,7 +66,7 @@
 
 </div>
 
-## `terminal.log // live source`
+## `Terminal`
 
 ```bash
 $ whoami
@@ -136,12 +136,13 @@ console.log(`[ONLINE] ${system.services.length} services ready`);
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Styven-Emmanuel-Dev&show_icons=true&theme=algolia&bg_color=050816&title_color=00F5D4&icon_color=ff2e63&text_color=ffffff&hide_border=true" alt="Statistiques GitHub" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styven-Emmanuel-Dev&layout=compact&theme=algolia&bg_color=050816&title_color=00F5D4&text_color=ffffff&hide_border=true" alt="Langages les plus utilisés" height="165"/>
+[![Dépôts publics](https://img.shields.io/github/repos/Styven-Emmanuel-Dev?style=for-the-badge&label=D%C3%89P%C3%94TS%20PUBLICS&color=00F5D4&labelColor=050816)](https://github.com/Styven-Emmanuel-Dev?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Styven-Emmanuel-Dev?style=for-the-badge&label=FOLLOWERS&color=ff2e63&labelColor=050816)](https://github.com/Styven-Emmanuel-Dev)
+[![Étoiles](https://img.shields.io/github/stars/Styven-Emmanuel-Dev?style=for-the-badge&label=%C3%89TOILES&color=F5C542&labelColor=050816)](https://github.com/Styven-Emmanuel-Dev?tab=repositories)
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=Styven-Emmanuel-Dev&theme=dark&background=050816&ring=00F5D4&fire=ff2e63&currStreakLabel=00F5D4&hide_border=true" alt="Streak GitHub" width="70%" />
+![Langages principaux](https://img.shields.io/badge/LANGAGES%20PRINCIPAUX-JavaScript%20%7C%20Python%20%7C%20PHP%20%7C%20TypeScript-00F5D4?style=for-the-badge&labelColor=050816)
 
 </div>
 
