@@ -66,7 +66,7 @@
 
 </div>
 
-## `Terminal`
+## `TERMINAL`
 
 ```bash
 $ whoami
@@ -127,7 +127,7 @@ console.log(`[ONLINE] ${system.services.length} services ready`);
 | Projet | Description | Stack / Intégrations | Lien |
 |:--|:--|:--|:--|
 | 🎓 **My School EDU Assistant** | IA éducative pour l'Afrique francophone, cours interactifs, suivi des performances, abonnement Premium | React Native (à venir), GeniusPay (Mobile Money + carte) | [Voir](https://schooleduassistant.techastuces.xyz) |
-| 🐞 **Bug Bot** | *(à compléter : ce que fait le bot, technos utilisées)* | JavaScript , Node.js , Baileys, Failles WhatsApp | [Voir](https://github.com/Styven-Emmanuel-Dev/Bug-bot-Base.git) |
+| 🐞 **Bug Bot** | *(à compléter : ce que fait le bot, technos utilisées)* | JavaScript,Node.js,Baileys,Failles WhatsApp | [Voir](#) |
 | 🌐 **Portfolio / Site web** | Site personnel, vitrine de mes compétences et réalisations | Vercel (hébergement), Spaceship (domaine) | [Voir](https://techastuces.xyz) |
 
 ---
@@ -136,7 +136,7 @@ console.log(`[ONLINE] ${system.services.length} services ready`);
 
 <div align="center">
 
-[![Dépôts publics](https://img.shields.io/github/repos/Styven-Emmanuel-Dev?style=for-the-badge&label=D%C3%89P%C3%94TS%20PUBLICS&color=00F5D4&labelColor=050816)](https://github.com/Styven-Emmanuel-Dev?tab=repositories)
+[![Dépôts publics](https://img.shields.io/badge/D%C3%89P%C3%94TS%20PUBLICS-9-00F5D4?style=for-the-badge&labelColor=050816)](https://github.com/Styven-Emmanuel-Dev?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/Styven-Emmanuel-Dev?style=for-the-badge&label=FOLLOWERS&color=ff2e63&labelColor=050816)](https://github.com/Styven-Emmanuel-Dev)
 [![Étoiles](https://img.shields.io/github/stars/Styven-Emmanuel-Dev?style=for-the-badge&label=%C3%89TOILES&color=F5C542&labelColor=050816)](https://github.com/Styven-Emmanuel-Dev?tab=repositories)
 
@@ -152,7 +152,7 @@ console.log(`[ONLINE] ${system.services.length} services ready`);
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:101d3f,100:050816&height=130&section=footer" width="100%" alt="Pied de page animé" />
 
-### `THAT'S ALL `
+### `THAT'S ALL`
 
 *Merci pour la visite. Le système reste ouvert aux projets ambitieux.*
 
