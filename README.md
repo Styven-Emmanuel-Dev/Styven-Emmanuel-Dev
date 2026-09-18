@@ -139,15 +139,9 @@ console.log(`[ONLINE] ${system.services.length} services ready`);
 <img src="https://github-readme-stats.vercel.app/api?username=Styven-Emmanuel-Dev&show_icons=true&theme=algolia&bg_color=050816&title_color=00F5D4&icon_color=ff2e63&text_color=ffffff&hide_border=true" alt="Statistiques GitHub" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styven-Emmanuel-Dev&layout=compact&theme=algolia&bg_color=050816&title_color=00F5D4&text_color=ffffff&hide_border=true" alt="Langages les plus utilisés" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=Styven-Emmanuel-Dev&theme=dark&background=050816&ring=00F5D4&fire=ff2e63&currStreakLabel=00F5D4&hide_border=true" alt="Streak GitHub" />
-
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Styven-Emmanuel-Dev&bg_color=050816&color=00F5D4&line=ff2e63&point=ffffff&area=true&hide_border=true" width="95%" alt="Graphique animé de l'activité GitHub" />
-
-<br /><br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Styven-Emmanuel-Dev&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="Trophées GitHub" />
+<img src="https://streak-stats.demolab.com?user=Styven-Emmanuel-Dev&theme=dark&background=050816&ring=00F5D4&fire=ff2e63&currStreakLabel=00F5D4&hide_border=true" alt="Streak GitHub" width="70%" />
 
 </div>
 
