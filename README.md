@@ -10,7 +10,7 @@
 
 <br/>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN5aTQ1MnI4OW9hdWw4bG44c2VjOWYyd3F2eTF3YnduZXN1eGZ2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif" width="620" alt="Ordinateur avec code animé" />
+<img src="https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&amp;fit=crop&amp;w=1200&amp;q=90" width="620" alt="Écran affichant de vraies lignes de code" />
 
 <br/>
 
@@ -34,29 +34,29 @@
 
 </div>
 
-## `credentials`
+## `credentials // engineering background`
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="50%">
-<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="280" alt="Informaticien devant un ordinateur" /><br />
-<b>🖥️ Maintenance informatique</b><br />Diagnostic, logiciels et systèmes
+<img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=700&q=85" width="280" alt="Carte électronique et matériel informatique" /><br />
+<b>Maintenance informatique</b><br />Diagnostic, logiciels et systèmes
 </td>
 <td align="center" width="50%">
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="280" alt="Anonymous et sécurité numérique" /><br />
-<b>🕶️ Sécurité numérique</b><br />Protection, veille et culture cyber
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Anonymous_emblem.svg/512px-Anonymous_emblem.svg.png" width="280" alt="Emblème Anonymous pour la sécurité numérique" /><br />
+<b>Cybersecurity / Anonymous mindset</b><br />Protection, veille et culture cyber
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Bureau avec Word Excel et PowerPoint" /><br />
-<b>📊 Assistance bureautique</b><br />Word • Excel • PowerPoint • outils du quotidien
+<img src="https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=700&q=85" width="280" alt="Ordinateur portable pour la bureautique" /><br />
+<b>Assistance bureautique</b><br />Word • Excel • PowerPoint • outils du quotidien
 </td>
 <td align="center" width="50%">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Développeur devant des lignes de code" /><br />
-<b>💻 Développement web & mobile</b><br />JavaScript • React • React Native • Python • PHP
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=700&q=85" width="280" alt="Lignes de code sur un écran" /><br />
+<b>Développement web & mobile</b><br />JavaScript • React • React Native • Python • PHP
 </td>
 </tr>
 </table>
@@ -66,11 +66,11 @@
 
 </div>
 
-## `terminal.log`
+## `terminal.log // live source`
 
 ```bash
 $ whoami
-styven@dev-lab:~$ developer / builder / security-minded
+styven@dev-lab:~$ software-engineer / security-minded
 
 $ cat ./current_mission.txt
 > apprendre sans pause
@@ -81,9 +81,29 @@ $ ./launch-project --mode ambitious
 [████████████████████████████████████] 100% deployed
 ```
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284115-3e7c4a41-2f9f-4b9e-98ee-7d1d9d9f0d4e.gif" width="500" alt="Animation de code" />
-</div>
+```python
+from dataclasses import dataclass
+
+@dataclass(frozen=True)
+class Engineer:
+    name: str = "Styven Emmanuel"
+    focus: tuple[str, ...] = ("distributed systems", "cybersecurity", "AI")
+
+    def build(self, problem: str) -> str:
+        return f"design -> secure -> ship: {problem}"
+
+print(Engineer().build("useful digital products"))
+```
+
+```javascript
+const system = await platform.bootstrap({
+  runtime: "production",
+  observability: true,
+  security: "zero-trust",
+});
+
+console.log(`[ONLINE] ${system.services.length} services ready`);
+```
 
 ## `arsenal`
 
