@@ -105,7 +105,7 @@ const system = await platform.bootstrap({
 console.log(`[ONLINE] ${system.services.length} services ready`);
 ```
 
-## `arsenal`
+## `ARSENAL`
 
 | Catégorie | Compétences |
 |:--|:--|
@@ -122,7 +122,7 @@ console.log(`[ONLINE] ${system.services.length} services ready`);
 
 ---
 
-## `projects.exe`
+## `PROJETS`
 
 | Projet | Description | Stack / Intégrations | Lien |
 |:--|:--|:--|:--|
