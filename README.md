@@ -43,8 +43,8 @@
 - 🎓 Diplômé en **Maintenance Informatique / Logiciel**
 - 🎓 Diplômé en **Développement Web**
 - 🎓 Diplômé en **Sécurité informatique**
-- - 🎓 Diplômé en **Assistance Bureautique**
-- 📬 Contact : [![Email](https://img.shields.io/badge/-ton.email@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:styvenemmanuel123@gmail.com)
+- 🎓 Diplômé en **Assistance Bureautique**
+- 📬 Contact : [![Email](https://img.shields.io/badge/-styvenemmanuel123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:styvenemmanuel123@gmail.com)
 
 ---
 
