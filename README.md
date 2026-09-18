@@ -55,7 +55,7 @@
 <b>Assistance bureautique</b><br />Word • Excel • PowerPoint • outils du quotidien
 </td>
 <td align="center" width="50%">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Personne en train de coder" /><br />
+<img src="https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=700&q=90" width="280" alt="Ordinateur affichant de vraies lignes de code" /><br />
 <b>Développement web & mobile</b><br />JavaScript • React • React Native • Python • PHP
 </td>
 </tr>
@@ -149,10 +149,6 @@ console.log(`[ONLINE] ${system.services.length} services ready`);
 
 <img src="https://github-profile-trophy.vercel.app/?username=Styven-Emmanuel-Dev&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="Trophées GitHub" />
 
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Styven-Emmanuel-Dev/Styven-Emmanuel-Dev/output/github-contribution-grid-snake.svg" alt="Animation snake des contributions" />
 </div>
 
 ---
