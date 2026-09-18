@@ -127,12 +127,12 @@ console.log(`[ONLINE] ${system.services.length} services ready`);
 | Projet | Description | Stack / Intégrations | Lien |
 |:--|:--|:--|:--|
 | 🎓 **My School EDU Assistant** | IA éducative pour l'Afrique francophone, cours interactifs, suivi des performances, abonnement Premium | React Native (à venir), GeniusPay (Mobile Money + carte) | [Voir](https://schooleduassistant.techastuces.xyz) |
-| 🐞 **Bug Bot** | *(à compléter : ce que fait le bot, technos utilisées)* | *(à compléter)* | [Voir](#) |
+| 🐞 **Bug Bot** | *(à compléter : ce que fait le bot, technos utilisées)* | JavaScript , Node.js , Baileys, Failles WhatsApp | [Voir](https://github.com/Styven-Emmanuel-Dev/Bug-bot-Base.git) |
 | 🌐 **Portfolio / Site web** | Site personnel, vitrine de mes compétences et réalisations | Vercel (hébergement), Spaceship (domaine) | [Voir](https://techastuces.xyz) |
 
 ---
 
-## `github.activity`
+## `GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -152,7 +152,7 @@ console.log(`[ONLINE] ${system.services.length} services ready`);
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:101d3f,100:050816&height=130&section=footer" width="100%" alt="Pied de page animé" />
 
-### `connection_terminated`
+### `THAT'S ALL `
 
 *Merci pour la visite. Le système reste ouvert aux projets ambitieux.*
 
