@@ -1,60 +1,73 @@
-<!--
-  ============================================================
-  📌 À PERSONNALISER avant de mettre ce fichier dans le dépôt
-  spécial "TonPseudoGitHub/TonPseudoGitHub" sur GitHub :
-   1) Remplace "TonPseudoGitHub" partout (Ctrl+H) par ton vrai
-      pseudo GitHub → active les stats, le compteur, etc.
-   2) Remplace "Ton Prénom" par ton prénom/nom d'affichage.
-   3) Complète les liens (portfolio, LinkedIn, email, projets).
-   4) Ajuste les badges de compétences à tes outils exacts.
-  ============================================================
--->
-
 <div align="center">
 
-# Salut, moi c'est STYVEN Emmanuel👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:101d3f,100:00f5d4&height=230&section=header&text=STYVEN%20EMMANUEL&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=CODE%20%E2%80%A2%20SECURITY%20%E2%80%A2%20AI%20%E2%80%A2%20SYSTEMS&descAlignY=60&descSize=16" width="100%" alt="Bannière cyberpunk Styven Emmanuel" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Web+%26+Logiciel;Passionn%C3%A9+de+S%C3%A9curit%C3%A9+Informatique;Cr%C3%A9ateur+de+Bots+%26+d%27IA;Toujours+en+train+d%27apprendre+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2600&pause=700&color=00F5D4&center=true&vCenter=true&width=780&lines=%3E+initializing+developer.exe;%3E+building+web+experiences;%3E+securing+the+digital+world;%3E+turning+ideas+into+systems" alt="Animation de texte" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://techastuces.xyz)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:styvenemmanuel123@gmail.com)
-
+[![ENTER THE PORTFOLIO](https://img.shields.io/badge/ENTER%20THE%20PORTFOLIO-00F5D4?style=for-the-badge&logo=vercel&logoColor=050816)](https://techastuces.xyz)
+[![CONTACT ME](https://img.shields.io/badge/CONTACT%20ME-ff2e63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:styvenemmanuel123@gmail.com)
+[![PROFILE VIEWS](https://komarev.com/ghpvc/?username=Styven-Emmanuel-Dev&color=00f5d4&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/Styven-Emmanuel-Dev)
 
 <br/>
 
-<!-- 🌱 → 🚀 : le parcours, en version "story" animée -->
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1800&color=8E8E8E&center=true&vCenter=true&width=750&lines=Jour+1+%3A+d%C3%A9butant+total%2C+z%C3%A9ro+ligne+de+code;Nuits+blanches%2C+essais%2C+erreurs%2C+progr%C3%A8s;Aujourd%27hui+%3A+d%C3%A9veloppeur+autonome;Maintenant+%3A+projets+%26+partenariats" alt="Mon évolution" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGN5aTQ1MnI4OW9hdWw4bG44c2VjOWYyd3F2eTF3YnduZXN1eGZ2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif" width="620" alt="Ordinateur avec code animé" />
 
-🌱 &nbsp;→&nbsp; 💪 &nbsp;→&nbsp; 💻 &nbsp;→&nbsp; 🤝
+<br/>
+
+```text
+╭────────────────────────────────────────────────────────────╮
+│  [ SYSTEM ONLINE ]  [ ENCRYPTED CHANNEL ]  [ 0 THREATS ]  │
+╰────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
----
+## `whoami`
 
-## 🧑‍💻 À propos de moi
+> Développeur web & logiciel, passionné par la sécurité informatique et les systèmes qui font vraiment quelque chose. Je transforme des idées en expériences web, bots, intégrations API et projets IA.
 
-- 🎯 Je me forme au développement (initiation programmation & web,aux conteneurs,au génie informatique parcours Ananta Group) avec l'objectif de devenir **ingénieur en système distribué** et, à terme, de lancer ma propre start-up.
-- 🛠️ Je m'occupe aussi bien de **création de sites web** que de **maintenance informatique**, de **sécurité numérique** et de **bureautique**.
-- 🤖 Je construis des **bots**, des intégrations d'**API** et des projets d'**intelligence artificielle**.
-- 📚 Toujours en train d'apprendre une nouvelle techno ou une nouvelle façon de sécuriser un système.
+<div align="center">
 
-## 🎓 Mon parcours
+| `CURRENT STATUS` | `MISSION` | `NEXT LEVEL` |
+|:---:|:---:|:---:|
+| 🟢 **ONLINE** | Construire des systèmes utiles | **Ingénieur systèmes distribués** |
 
-- 🎓 Diplômé en **Maintenance Informatique / Logiciel**
-- 🎓 Diplômé en **Développement Web**
-- 🎓 Diplômé en **Sécurité informatique**
-- 🎓 Diplômé en **Assistance Bureautique**
-- 📬 Contact : [![Email](https://img.shields.io/badge/-styvenemmanuel123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:styvenemmanuel123@gmail.com)
+</div>
 
----
+## `credentials`
 
-## 🛠️ Compétences
+- 🎓 Maintenance informatique / logiciel
+- 🎓 Développement web
+- 🎓 Sécurité informatique
+- 🎓 Assistance bureautique
+- 🧭 Parcours actuel : programmation, web, conteneurs et génie informatique avec Ananta Group
+
+## `terminal.log`
+
+```bash
+$ whoami
+styven@dev-lab:~$ developer / builder / security-minded
+
+$ cat ./current_mission.txt
+> apprendre sans pause
+> créer des produits qui claquent
+> rendre le web plus utile et plus sûr
+
+$ ./launch-project --mode ambitious
+[████████████████████████████████████] 100% deployed
+```
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284115-3e7c4a41-2f9f-4b9e-98ee-7d1d9d9f0d4e.gif" width="500" alt="Animation de code" />
+</div>
+
+## `arsenal`
 
 | Catégorie | Compétences |
 |:--|:--|
-| **Langages** | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) |
+| **Langages** | [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://docs.python.org/3/) [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/docs.php) |
 | **Balisage & Style** | [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS) |
-| **Front-end** | [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org) |
+| **Front-end** | [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev) [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev) [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)](https://vuejs.org) |
 | **Back-end** | [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/en/docs) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com) |
 | **Bases de données** | [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/docs/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://dev.mysql.com/doc/) [![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com/docs) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/docs) |
 | **Outils & Environnement** | [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/docs) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/doc) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com) [![Terminal](https://img.shields.io/badge/Terminal-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://learn.microsoft.com/windows/) [![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)](https://learn.microsoft.com/powershell/) |
@@ -65,33 +78,27 @@
 
 ---
 
-## 🚀 Mes projets
+## `projects.exe`
 
 | Projet | Description | Stack / Intégrations | Lien |
 |:--|:--|:--|:--|
 | 🎓 **My School EDU Assistant** | IA éducative pour l'Afrique francophone, cours interactifs, suivi des performances, abonnement Premium | React Native (à venir), GeniusPay (Mobile Money + carte) | [Voir](https://schooleduassistant.techastuces.xyz) |
-| 🐞 **Bug Bot** | Un bot qui fait crasher le système whatsapp mobile des appareils | Javascript, node.js, Baileys , Failles WhatsApp | [Voir](#) |
+| 🐞 **Bug Bot** | *(à compléter : ce que fait le bot, technos utilisées)* | *(à compléter)* | [Voir](#) |
 | 🌐 **Portfolio / Site web** | Site personnel, vitrine de mes compétences et réalisations | Vercel (hébergement), Spaceship (domaine) | [Voir](https://techastuces.xyz) |
 
 ---
 
-## 📊 Statistiques GitHub
+## `github.activity`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Styven-Emmanuel-Dev&show_icons=true&theme=radical&hide_border=true" alt="Stats GitHub" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styven-Emmanuel-Dev&layout=compact&theme=radical&hide_border=true" alt="Langages les plus utilisés" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Styven-Emmanuel-Dev&show_icons=true&theme=algolia&bg_color=050816&title_color=00F5D4&icon_color=ff2e63&text_color=ffffff&hide_border=true" alt="Statistiques GitHub" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styven-Emmanuel-Dev&layout=compact&theme=algolia&bg_color=050816&title_color=00F5D4&text_color=ffffff&hide_border=true" alt="Langages les plus utilisés" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Styven-Emmanuel-Dev&theme=radical&hide_border=true" alt="Streak GitHub" />
+<img src="https://streak-stats.demolab.com?user=Styven-Emmanuel-Dev&theme=dark&background=050816&ring=00F5D4&fire=ff2e63&currStreakLabel=00F5D4&hide_border=true" alt="Streak GitHub" />
 
 </div>
 
-<!--
-  🐍 Animation "snake" (le serpent qui mange tes contributions) :
-  1. Crée un dépôt spécial nommé exactement "TonPseudoGitHub/TonPseudoGitHub"
-  2. Ajoute une GitHub Action avec "platane/snk" (cherche "github readme snake animation")
-  3. Remplace ensuite la ligne ci-dessous par l'URL générée par l'action
--->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Styven-Emmanuel-Dev/Styven-Emmanuel-Dev/output/github-contribution-grid-snake.svg" alt="Animation snake des contributions" />
 </div>
@@ -100,8 +107,10 @@
 
 <div align="center">
 
-![Compteur de visites](https://komarev.com/ghpvc/?username=Styven-Emmanuel-Dev&color=blueviolet&style=for-the-badge&label=VISITEURS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:101d3f,100:050816&height=130&section=footer" width="100%" alt="Pied de page animé" />
 
-*Merci de ta visite, n'hésite pas à me contacter pour discuter d'un projet !* ✨
+### `connection_terminated`
+
+*Merci pour la visite. Le système reste ouvert aux projets ambitieux.*
 
 </div>
