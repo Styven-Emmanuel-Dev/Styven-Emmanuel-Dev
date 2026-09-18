@@ -36,11 +36,35 @@
 
 ## `credentials`
 
-- 🎓 Maintenance informatique / logiciel
-- 🎓 Développement web
-- 🎓 Sécurité informatique
-- 🎓 Assistance bureautique
-- 🧭 Parcours actuel : programmation, web, conteneurs et génie informatique avec Ananta Group
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="280" alt="Informaticien devant un ordinateur" /><br />
+<b>🖥️ Maintenance informatique</b><br />Diagnostic, logiciels et systèmes
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="280" alt="Anonymous et sécurité numérique" /><br />
+<b>🕶️ Sécurité numérique</b><br />Protection, veille et culture cyber
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="280" alt="Bureau avec Word Excel et PowerPoint" /><br />
+<b>📊 Assistance bureautique</b><br />Word • Excel • PowerPoint • outils du quotidien
+</td>
+<td align="center" width="50%">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280" alt="Développeur devant des lignes de code" /><br />
+<b>💻 Développement web & mobile</b><br />JavaScript • React • React Native • Python • PHP
+</td>
+</tr>
+</table>
+
+🎓 Diplômé en maintenance informatique / logiciel, développement web, sécurité informatique et assistance bureautique.<br />
+🧭 Parcours actuel : programmation, web, conteneurs et génie informatique avec Ananta Group.
+
+</div>
 
 ## `terminal.log`
 
@@ -96,6 +120,14 @@ $ ./launch-project --mode ambitious
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Styven-Emmanuel-Dev&layout=compact&theme=algolia&bg_color=050816&title_color=00F5D4&text_color=ffffff&hide_border=true" alt="Langages les plus utilisés" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=Styven-Emmanuel-Dev&theme=dark&background=050816&ring=00F5D4&fire=ff2e63&currStreakLabel=00F5D4&hide_border=true" alt="Streak GitHub" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Styven-Emmanuel-Dev&bg_color=050816&color=00F5D4&line=ff2e63&point=ffffff&area=true&hide_border=true" width="95%" alt="Graphique animé de l'activité GitHub" />
+
+<br /><br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Styven-Emmanuel-Dev&theme=onestar&no-frame=true&no-bg=true&row=1&column=6" width="95%" alt="Trophées GitHub" />
 
 </div>
 
